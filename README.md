@@ -26,9 +26,9 @@ El codigo incia importando las librearias:
 
 # aqui cargamos el video
     
-    cap = cv2.VideoCapture('D:\\copy\\ORIGINAL\\PROGRAMAR\\VISION POR COMPUTADOR\\detection_color_video\\tu_video.mp4')
+    cap = cv2.VideoCapture(0)
 
-en esta linea de codigo declaramosla variable 'cap', donde almacenaremos la información y utilizamos la herramienta cv2... de opencv para capturr nuestro video, y posteriormente pegaremos la ruta de la carpeta donde esta guardado nuestro video.
+en esta linea de codigo declaramosla variable 'cap', donde almacenaremos la información y utilizamos la herramienta cv2... de opencv para captura nuestro camara principal del pc, o puedes cambiar a 1 si tienes conectada otra camara por usb.
 
     
 # aqui leemos el video
