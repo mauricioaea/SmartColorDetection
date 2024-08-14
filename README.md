@@ -1,4 +1,4 @@
-# Hola Chicos aqui les dejo la expliación del cdigo, el cual puede resultar util para sus proyectos
+# Hola Chicos aqui les dejo la expliación del codigo, el cual puede resultar util para sus proyectos
 Antes de inciar crear una carpeta en tus archivos. despues de esto la debes abrir en visual studio code o tu ide de preferecia.
 # 1  activa el entorno virtual=> .\env\Scripts\activate      
 
