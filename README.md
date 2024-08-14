@@ -148,14 +148,14 @@ finalmene, ecribimos la siguinte liena de codigo que basicamente nos permite cer
 cap.release()
 cv2.destroyAllWindows()
  
-""" Finalmente en tu terminal ejecuta el comando (python detection_color.py)  para ver el codigo en ejecución 
+# Finalmente en tu terminal ejecuta el comando (python detection_color.py)  para ver el codigo en ejecución 
 
 finalmente si tienes dudas no dudes en contactarme. [MauricioErazoArango] (https://github.com/mauricioaea)(https://www.tiktok.com/@mauricioa.erazo?_t=8oquUxmJ1Mc&_r=1)
 
-[Simpler-smarter-Futher] 
+# [Simpler-smarter-Futher] 
 
 
-si deseas detectar otro tipo de colores aqui te dejo el codigo:
+# si deseas detectar otro tipo de colores aqui te dejo el codigo:
 
 Ejemplo de Rangos de Colores Comunes
 Aquí tienes algunos rangos de colores comunes en el espacio HSV:
